@@ -1,2 +1,4 @@
-.docker*
+.docker/*
+!.docker/start-dev.sh
+
 */node_modules
